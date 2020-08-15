@@ -1,2 +1,2 @@
-# spark-journal-officiel
-Hadoop Spark Journal Officiel Data Analysis
+# spark-datasonghai
+Hadoop Spark for Datasonghai Analysis
